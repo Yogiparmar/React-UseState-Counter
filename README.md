@@ -8,10 +8,6 @@ Welcome to the Simple React Counter! This is a lightweight web application built
 * **Zero Alert:** An alert prompts the user when attempting to decrement the counter below zero.
 * **Responsive Design:** The app is designed to work smoothly on various devices.
 
-### Demo
-
-Live Demo: (Replace with the actual link to your live demo)
-
 ### Technologies Used
 
 * React: JavaScript library for building user interfaces
@@ -41,5 +37,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Feel free to reach out if you have any questions or feedback!
 
-Your Name: Yogi Parmar
-GitHub: Yogiparmar
+[@Yogiparmar](https://github.com/Yogiparmar)
